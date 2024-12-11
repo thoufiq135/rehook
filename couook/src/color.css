@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+#par{
+    height:100vh;
+    width: 100vw;
+    background-color: aqua;
+}
+#head{
+    color: red;
+    padding-left: 35vw;
+    padding-top: 10vh;
+    font-size: 5vh;
+    
+}
+input{
+    height:5vh;
+    width:15vw;
+    border-radius: 2vh;
+    margin-left: 35vw;
+    margin-top: 12vh;
+    font-size: 4vh;
+    border: 0.2vh solid black;
+    padding: 0.5vw;
+}
+p{
+    font-size: 10vh;
+    padding-left: 25vw;
+    padding-top: 18vh;
+}
+button{
+    height:5vh;
+    width:7vw;
+    font-size: 2vh;
+    border-radius: 2vh;
+    border: 0.2vh solid black;
+    position: fixed;
+    top:27.8vh;
+    left:52vw
+}
